@@ -2,7 +2,7 @@
 # Aspa-next
 A website to be filled with information about how become a part of 
 the different committees and societies within the Software Engineering 
-Student Division (IT) built using Nextjs and typescript.
+Student Division (IT) at Chalmers.
 
 ## Content to be
 The aim is to inform those who begin their time as IT of the following:
